@@ -18,7 +18,9 @@ I'm an **Embedded Systems Engineer** passionate about building efficient, robust
 
 **[Mini Embedded Platform](#)**  
 A custom platform designed for rapid prototyping and experimentation with embedded hardware, sensors, and real-world data.  
-*(Add your project link or more details here if you want!)*
+
+**[Vehicle Diagnostic](#)**  
+A diagnostic system for vehicles leveraging embedded systems to monitor, analyze, and report real-time data from automotive sensors.  
 
 ---
 
