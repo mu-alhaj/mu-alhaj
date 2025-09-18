@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustafa Alhaj Kasem
 
-<!--
-**mu-alhaj/mu-alhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Embedded Systems Engineer | Math & Electronics Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+I'm an **Embedded Systems Engineer** passionate about building efficient, robust solutions at the intersection of hardware and software. I thrive on solving algorithmic challenges and bringing innovative ideas to life using microcontrollers and sensors.
+
+- 🖥️ Languages: **C, C++, Python**
+- ⚙️ Platforms & Tools: **STM32, Sensors, Git**
+- 🧠 Interests: **Mathematics, Electronics, Algorithms**
+
+---
+
+## 🌟 Featured Project
+
+**[Mini Embedded Platform](#)**  
+A custom platform designed for rapid prototyping and experimentation with embedded hardware, sensors, and real-world data.  
+*(Add your project link or more details here if you want!)*
+
+---
+
+## 📚 Always Learning
+
+I’m endlessly curious about math, electronics, and algorithmic logic. Every day is an opportunity to dive deeper and sharpen my skills.
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mustafaalhajkasem/)
+
+---
+
+> “Passionate for math, electronics, and algorithms—learning more every day.”
