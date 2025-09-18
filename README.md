@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mustafa Alhaj Kasem
+#  Hi, I'm Mustafa Alhaj Kasem
 
-### 🚀 Embedded Systems Engineer | Math & Electronics Enthusiast
+###  Embedded Systems Engineer | Math & Electronics Enthusiast
 
 ---
 
-## 🛠️ What I Do
+## 🛠 What I Do
 
 I'm an **Embedded Systems Engineer** passionate about building efficient, robust solutions at the intersection of hardware and software. I thrive on solving algorithmic challenges and bringing innovative ideas to life using microcontrollers and sensors.
 
